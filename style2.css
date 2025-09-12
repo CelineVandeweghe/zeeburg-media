@@ -11776,7 +11776,7 @@ figure.brxe-image figcaption {
 }
 
 .css-filter:hover {
-filter: grayscale(100%) brightness(75%) !important;
+filter: grayscale(100%) brightness(90%) !important;
   transition: filter 0.3s ease !important;
 }
 
